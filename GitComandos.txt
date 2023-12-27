@@ -13,3 +13,4 @@ tags: permite establecer versiones a nuestro proyecto.
 
 9- git tag 27-12-23v1 -m "Version 1 del proyecto"
 10- git push --tags
+11- git clone : para pegar la url que copiamos en el portapaples.
