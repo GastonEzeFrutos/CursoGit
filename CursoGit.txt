@@ -1,0 +1,37 @@
+<html>
+
+<head>
+<title> Triunfo de Racing sobre River de Uruguay </title>
+</head>
+
+<body bgcolor="#f8f8f8" text="black">
+
+<h1> Racing Club 1 - River Plate (U) 0 </h1>
+
+<center><img src="gol.jpeg" height="500" width="800"></center>
+
+<h2> Arranca la Ilusion Sudamericana </h2>
+
+
+<table border = "5">
+
+<tr>
+<td>Goles</td>
+</tr>
+
+<tr>
+<td> Racing Club: </td>
+<td> Leonel Miranda </td>
+</tr>
+
+</table>
+
+<p>Con el último suspiro. Cuando el enorme desgaste que había desplegado Racing parecía que no le alcanzaría, Leonel Miranda cabeceó, 
+la pelota dio en el palo derecho del arquero y se metió con suspenso. La Academia dio el golpe que tanto buscó, 
+tras varias deficiencias en las terminaciones de las jugadas, y se llevó un triunfo muy trabajoso en el legendario Centenario de Montevideo.
+</p>
+
+
+</body>
+
+</html>
