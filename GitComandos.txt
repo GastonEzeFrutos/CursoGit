@@ -8,3 +8,8 @@ GIT Comandos:
 6- git reset -hard + codigo del commit al que queremos volver.
 7- git push: sube los cambios a github.
 8- git pull: trae los cambios al documento en que se este trabajando.
+
+tags: permite establecer versiones a nuestro proyecto.
+
+9- git tag 27-12-23v1 -m "Version 1 del proyecto"
+10- git push --tags
