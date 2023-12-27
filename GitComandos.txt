@@ -1,8 +1,10 @@
 GIT Comandos:
 
 1- git init: Dar comienzo.
-2- git status -s: Estado de los documentos
+2- git status -s: Estado de los documentos.
 3- git add + nombre del archivo: lo envia al área de Ensayo.
 4- git commit -m + "descripción de lo que queramos".
-5- git log --oneline: listado de commits
-6- git reset -hard + codigo del commit al que queremos volver
+5- git log --oneline: listado de commits.
+6- git reset -hard + codigo del commit al que queremos volver.
+7- git push: sube los cambios a github.
+8- git pull: trae los cambios al documento en que se este trabajando.
